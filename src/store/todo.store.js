@@ -13,6 +13,7 @@ const state = {
         new Todo('Pieda del tiempo'),
         new Todo('Pieda del poder'),
         new Todo('Pieda del realidad'),
+        new Todo('Piedra del salame')
     ],
     filter: Filters.All,
 }
